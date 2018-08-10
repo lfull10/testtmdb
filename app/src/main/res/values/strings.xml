@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test_tmdb</string>
+    <string name="movie_released">Released on %1$s</string>
+    <string name="youtube_video_uri">http://www.youtube.com/embed/%1$s?autoplay=0</string>
+
+    <string name="poster_path_format">https://image.tmdb.org/t/p/w600_and_h900_bestv2%1$s</string>
+    <string name="offline_message">Offline mode: no network available</string>
+    <string name="no_movies_item_message">No movies to show</string>
+    <string name="loading_item_list_message">Loading movies...</string>
+</resources>
